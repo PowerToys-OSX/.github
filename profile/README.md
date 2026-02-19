@@ -40,12 +40,6 @@ Shortcut customization creates system-wide shortcuts triggering various actions 
 
 ---
 
-<p align="center">
-  <img src="https://cdn.neowin.com/news/images/uploaded/2022/04/1649325266_powertoys_peek_settings.jpg" alt="PowerToys screenshot"/>
-</p>
-
----
-
 ## Additional Information
 
 PowerToys OSX excels for power user productivity enhancement. Window management enables efficient multi-application workspace organization through tiling, snapping, or custom layouts supporting complex workflows.
